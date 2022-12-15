@@ -4,12 +4,12 @@
 [nginx]
 <Nginx-Private-IP-Address>
 
-[sonar]
-172.31.16.117 ansible_ssh_user='ubuntu'
+#[sonar]
+#172.31.16.117 ansible_ssh_user='ubuntu'
 
 [artifactory]
 172.31.92.91  ansible_ssh_user='ec2-user'
 
 
 [db]
-172.31.7.194 ansible_ssh_user='ubuntu'
+172.31.85.203 ansible_ssh_user='ubuntu'
