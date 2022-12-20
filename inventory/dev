@@ -6,3 +6,5 @@
 172.31.85.203 ansible_ssh_user='ubuntu'
 
 
+[todo]
+172.31.92.34 ansible_ssh_user='ec2-user'
